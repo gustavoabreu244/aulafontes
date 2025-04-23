@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: minecraft;
+    src: url(../fontes/Minecrafter.Alt.ttf);
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: minecraft;
+    letter-spacing: 25px;
+    color: #00AA00;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    background-color: #964b00;
+    border-top: 20px solid #00AA00;
+}
+img{
+    display: block;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: none;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 15px;
+    border-radius: 30px;
+    
+}
+body{
+    background-image: url(https://i.redd.it/two-minecraft-backgrounds-i-made-first-time-using-shaders-v0-9co6s0m3me9d1.png?width=1920&format=png&auto=webp&s=d92e29b598711ebf0c9b9a77f3ee31d4d938a843);
+    background-size: 2410px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
