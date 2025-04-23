@@ -14,8 +14,8 @@ h1{
     color: #00AA00;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
-    background-color: #964b00;
-    border-top: 20px solid #00AA00;
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2948768-pixel-minecraft-style-land-background-vetor.jpg);
+    background-size: 250px;
 }
 img{
     display: block;
